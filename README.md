@@ -34,7 +34,7 @@ dependencies {
 
 ### Usage
 
-** include in xml layout**
+**include in xml layout**
 ```
 <com.mahmoud.onboardingview.OnBoardingView
         android:id="@+id/onboardingView"
@@ -49,7 +49,7 @@ dependencies {
 ```
 
 
-** in ur (full screen) activity**
+**in ur (full screen) activity**
 
 ```
 val onBoardingView=findViewById(R.id.onboardingView)
