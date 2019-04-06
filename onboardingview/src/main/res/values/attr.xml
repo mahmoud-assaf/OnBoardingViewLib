@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OnBoardingView">
+
+            <attr name="skipBbuttonStartText" format="string" />
+        <attr name="skipButtonFinishText" format="string" />
+        <attr name="showSeparator" format="boolean" />
+        <attr name="foregroundColor" format="color" />
+        <attr name="indicatorUnselectedColor" format="color" />
+        <attr name="indicatorSelectedColor" format="color" />
+        <attr name="appIconRes" format="integer" />
+
+    </declare-styleable>
+</resources>
